@@ -1,0 +1,15 @@
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\weather.Application.deps.json
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\weather.Application.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\ref\weather.Application.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\weather.Application.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.GlobalUsings.g.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.csproj.AssemblyReference.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.AssemblyInfoInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.AssemblyInfo.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.csproj.CoreCompileInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\ref\weather.Application.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\obj\Debug\net6.0\weather.Application.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Application\bin\Debug\net6.0\weather.Domain.pdb
