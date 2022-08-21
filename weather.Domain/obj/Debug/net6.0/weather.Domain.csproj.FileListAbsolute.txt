@@ -1,0 +1,13 @@
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\bin\Debug\net6.0\weather.Domain.deps.json
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\bin\Debug\net6.0\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\bin\Debug\net6.0\ref\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\bin\Debug\net6.0\weather.Domain.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.GlobalUsings.g.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.csproj.AssemblyReference.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.AssemblyInfoInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.AssemblyInfo.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\ref\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Domain\obj\Debug\net6.0\weather.Domain.pdb

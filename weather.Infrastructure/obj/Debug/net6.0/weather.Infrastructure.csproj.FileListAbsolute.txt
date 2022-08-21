@@ -1,0 +1,17 @@
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Infrastructure.deps.json
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Infrastructure.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\ref\weather.Infrastructure.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Infrastructure.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Application.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Application.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.GlobalUsings.g.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.AssemblyInfo.cs
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\ref\weather.Infrastructure.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\obj\Debug\net6.0\weather.Infrastructure.pdb
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Domain.dll
+C:\Users\kspyrka\RiderProjects\worldWeather\weather\weather.Infrastructure\bin\Debug\net6.0\weather.Domain.pdb
